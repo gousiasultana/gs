@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="DESKTOP-NHTI6U0" name="pytest" skipped="0" tests="1" time="11.630" timestamp="2023-04-06T20:42:45.155305"><testcase classname="test_e2e.TestOne" name="test_e2e" time="11.547" /></testsuite></testsuites>
