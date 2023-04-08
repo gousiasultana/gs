@@ -3,7 +3,7 @@ import openpyxl
 
 class HomePageData:
 
-    test_HomePage_data = [ {"firstname":"Anshika", "lastname":"shetty", "gender":"Female"}]
+    test_HomePage_data = [ ]
 
     @staticmethod
     def getTestData(test_case_name):
